@@ -1,0 +1,3 @@
+rootProject.name = 'ShuttleNativeApp'
+
+include ':app'
